@@ -1,0 +1,287 @@
+{
+ "overworld": {
+  "chunks": 27761,
+  "below_air_total": 118389919,
+  "built_below_total": 18034150,
+  "deepest_built_y": -64,
+  "highest_below_surface_built_y": 315,
+  "hollow_chunks_air_ge_256": 22939,
+  "hollow_bbox": [
+   -1536,
+   -1104,
+   1071,
+   1535
+  ],
+  "room_like_chunks": 8486,
+  "room_like_bbox": [
+   -1536,
+   -1088,
+   1023,
+   1535
+  ],
+  "deep_chunks": 2743,
+  "deep_clusters": [
+   {
+    "chunks": 119,
+    "bbox": [
+     736,
+     -832,
+     959,
+     -609
+    ]
+   },
+   {
+    "chunks": 115,
+    "bbox": [
+     448,
+     -976,
+     687,
+     -769
+    ]
+   },
+   {
+    "chunks": 73,
+    "bbox": [
+     -1136,
+     464,
+     -977,
+     639
+    ]
+   },
+   {
+    "chunks": 66,
+    "bbox": [
+     -816,
+     1200,
+     -657,
+     1407
+    ]
+   },
+   {
+    "chunks": 63,
+    "bbox": [
+     528,
+     -704,
+     719,
+     -465
+    ]
+   },
+   {
+    "chunks": 61,
+    "bbox": [
+     816,
+     784,
+     959,
+     975
+    ]
+   },
+   {
+    "chunks": 57,
+    "bbox": [
+     496,
+     640,
+     719,
+     783
+    ]
+   },
+   {
+    "chunks": 55,
+    "bbox": [
+     -880,
+     720,
+     -705,
+     943
+    ]
+   },
+   {
+    "chunks": 53,
+    "bbox": [
+     -1296,
+     912,
+     -1121,
+     1087
+    ]
+   },
+   {
+    "chunks": 52,
+    "bbox": [
+     -1424,
+     -848,
+     -1249,
+     -673
+    ]
+   },
+   {
+    "chunks": 51,
+    "bbox": [
+     -1440,
+     -1024,
+     -1201,
+     -929
+    ]
+   },
+   {
+    "chunks": 50,
+    "bbox": [
+     -1536,
+     32,
+     -1393,
+     239
+    ]
+   }
+  ],
+  "be_y_bands": {
+   "-64": 1506,
+   "-48": 2332,
+   "-32": 2507,
+   "-16": 1171,
+   "0": 605,
+   "16": 510,
+   "32": 564,
+   "48": 2890,
+   "64": 32403,
+   "80": 21816,
+   "96": 11462,
+   "112": 10237,
+   "128": 9428,
+   "144": 9684,
+   "160": 7408,
+   "176": 6096,
+   "192": 5423,
+   "208": 4231,
+   "224": 1964,
+   "240": 1931,
+   "256": 174,
+   "272": 1308,
+   "288": 839,
+   "304": 71
+  },
+  "be_below_zero": 7516,
+  "be_below_zero_types": {
+   "minecraft:sculk_sensor": 2226,
+   "minecraft:barrel": 976,
+   "minecraft:skull": 693,
+   "minecraft:chest": 647,
+   "minecraft:sculk_catalyst": 561,
+   "minecraft:mob_spawner": 466,
+   "minecraft:sign": 388,
+   "minecraft:end_portal": 313,
+   "minecraft:sculk_shrieker": 270,
+   "minecraft:bed": 232,
+   "DUMMY": 168,
+   "minecraft:banner": 116,
+   "minecraft:daylight_detector": 115,
+   "minecraft:furnace": 96,
+   "minecraft:command_block": 78,
+   "minecraft:dispenser": 63,
+   "minecraft:blast_furnace": 26,
+   "minecraft:brewing_stand": 24,
+   "minecraft:dropper": 12,
+   "minecraft:comparator": 11
+  },
+  "notable_block_totals": {
+   "minecraft:barrier": 466956,
+   "minecraft:barrel": 60219,
+   "minecraft:rail": 32589,
+   "minecraft:polished_blackstone_button": 22634,
+   "minecraft:powered_rail": 9051,
+   "minecraft:detector_rail": 8620,
+   "minecraft:observer": 8604,
+   "minecraft:stone_button": 7107,
+   "minecraft:lever": 5644,
+   "minecraft:piston": 3712,
+   "minecraft:chest": 1559,
+   "minecraft:spawner": 935,
+   "minecraft:tnt": 812,
+   "minecraft:redstone_block": 167,
+   "minecraft:acacia_button": 127,
+   "minecraft:sticky_piston": 113,
+   "minecraft:command_block": 79,
+   "minecraft:warped_button": 64,
+   "minecraft:birch_button": 52,
+   "minecraft:trapped_chest": 16,
+   "minecraft:calibrated_sculk_sensor": 8,
+   "minecraft:spruce_button": 6,
+   "minecraft:chain_command_block": 5,
+   "minecraft:repeating_command_block": 4,
+   "minecraft:piston_head": 4,
+   "minecraft:ender_chest": 3,
+   "minecraft:bamboo_button": 3,
+   "minecraft:dark_oak_button": 2,
+   "minecraft:mangrove_button": 1
+  }
+ },
+ "end": {
+  "chunks": 9822,
+  "below_air_total": 824323,
+  "built_below_total": 991354,
+  "deepest_built_y": 12,
+  "highest_below_surface_built_y": 63,
+  "hollow_chunks_air_ge_256": 165,
+  "hollow_bbox": [
+   -112,
+   -128,
+   111,
+   127
+  ],
+  "room_like_chunks": 157,
+  "room_like_bbox": [
+   -112,
+   -128,
+   111,
+   127
+  ],
+  "deep_chunks": 17,
+  "deep_clusters": [
+   {
+    "chunks": 6,
+    "bbox": [
+     48,
+     -80,
+     111,
+     -17
+    ]
+   },
+   {
+    "chunks": 5,
+    "bbox": [
+     -32,
+     -128,
+     47,
+     -81
+    ]
+   },
+   {
+    "chunks": 3,
+    "bbox": [
+     -96,
+     -16,
+     -65,
+     15
+    ]
+   },
+   {
+    "chunks": 2,
+    "bbox": [
+     96,
+     32,
+     111,
+     63
+    ]
+   },
+   {
+    "chunks": 1,
+    "bbox": [
+     -112,
+     80,
+     -97,
+     95
+    ]
+   }
+  ],
+  "be_y_bands": {},
+  "be_below_zero": 0,
+  "be_below_zero_types": {},
+  "notable_block_totals": {}
+ }
+}
